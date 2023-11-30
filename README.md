@@ -41,3 +41,10 @@ Below are the requirements and steps to create a basic DRF MySQL CRUD applicatio
   
 #### step10: Testing project:
 * Use tools like Postman to test your CRUD operations on the API endpoints.
+
+## For more details:
+1. [Djnago](https://docs.djangoproject.com/en/4.2/)
+2. [Django-rest-framework](https://www.django-rest-framework.org/)
+3. [React](https://react.dev/learn)
+4. [Xamp Server](https://www.apachefriends.org/)
+
